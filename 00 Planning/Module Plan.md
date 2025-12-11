@@ -1,6 +1,7 @@
-# **1. Module Overview**
+# GDD525 - Narrative Design & Interactive Fiction
+## **1. Module Overview**
 
-## **1.1 What This Module Is About**
+### **1.1 What This Module Is About**
 
 This module introduces students to the principles and practices of **narrative design for interactive media**, with a focus on building **story-driven gameplay experiences** such as visual novels, exploration games, choice-based fiction, and branching narratives.
 
@@ -11,7 +12,7 @@ Instead, the goal is to give students the tools and understanding needed to **cr
 
 ---
 
-## **1.2 Aims for Learners**
+### **1.2 Aims for Learners**
 
 By the end of the module, students should be able to:
 
@@ -25,9 +26,9 @@ By the end of the module, students should be able to:
 
 ---
 
-## **1.3 Skills We Will Cover**
+### **1.3 Skills We Will Cover**
 
-### **Narrative Design Skills**
+#### **Narrative Design Skills**
 
 * Writing for branching and non-linear structures
 * Designing meaningful player choices
@@ -36,14 +37,14 @@ By the end of the module, students should be able to:
 * Diegetic and non-diegetic narration
 * Creating story bibles, beat sheets, and interactive flowcharts
 
-### **Interactive Storytelling Skills**
+#### **Interactive Storytelling Skills**
 
 * Designing and sequencing narrative triggers
 * Building dialogue moments, lore interactions, and cutscene-style sequences
 * Structuring level flow for both guided and open exploration
 * Handling consequences and narrative state
 
-### **Practical Unity Skills (Minimal & Accessible)**
+#### **Practical Unity Skills (Minimal & Accessible)**
 
 * Working with a pre-built 3rd-person controller & follow camera
 * Using trigger volumes for narrative events
@@ -52,7 +53,7 @@ By the end of the module, students should be able to:
 * Editing simple scriptable assets to structure dialogue or event chains
 * Using timeline-style or sequence-based storytelling tools where appropriate
 
-### **Collaboration & Production Skills**
+#### **Collaboration & Production Skills**
 
 * Iterating narrative content based on feedback
 * Communicating story intent through clear documentation
@@ -60,7 +61,7 @@ By the end of the module, students should be able to:
 
 ---
 
-## **1.4 Narrative Systems – Module Touchstone Map**
+### **1.4 Narrative Systems – Module Touchstone Map**
 
 How the major parts of narrative design and simple interactive systems connect together in this module.
 
@@ -100,7 +101,7 @@ graph TD;
 
 ---
 
-## **1.5 What We Are *Not* Covering**
+### **1.5 What We Are *Not* Covering**
 
 We intentionally avoid **advanced game development, code-heavy interaction systems, or cinematic-level production tools**, as these require prior engine experience and fall outside the module’s focus. The intent is to keep the technology **simple, predictable, and accessible**, allowing students to concentrate on **storycraft, player agency, and narrative design thinking** rather than engine complexity.
 
@@ -108,11 +109,11 @@ Students may see references to more advanced tools or workflows, but these will 
 
 ---
 
-## **1.6 Practical Projects in the Semester**
+### **1.6 Practical Projects in the Semester**
 
 Students will complete **one core narrative prototype**, developed in stages across the semester, supported by weekly exercises:
 
-### **1) Interactive Narrative Prototype (Weeks 1–12)**
+#### **1) Interactive Narrative Prototype (Weeks 1–12)**
 
 A short playable experience built in Unity using the provided project template. Must include:
 
